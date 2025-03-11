@@ -24,7 +24,7 @@ Example:
 cService = webdriver.ChromeService(executable_path='YOUR FILE PATH GOES HERE')
 
 **Usage**
-Run the script, it will open a new Chrome window and load islemaps.com. You can move this window to a 2nd monitor. In-game, hit TAB and copy your coordinates. It should put a pin on the map. If you have nothing on your clipboard initially nothing will happen, so move a few feet and copy coordinates again and it should update.
+Run the script, it will open a new Chrome window and load islemaps.com. You can move this window to a 2nd monitor. In-game, hit TAB and click where your coordinates are in game [EXAMPLE](https://imgur.com/a/GJzSX1V), this will copy your coordinates to clipboard. It should put a pin on the map. If you have nothing on your clipboard initially nothing will happen, so move a few feet in game and copy coordinates again and it should update.
 
 **Contributing**
 Fork the repository.
